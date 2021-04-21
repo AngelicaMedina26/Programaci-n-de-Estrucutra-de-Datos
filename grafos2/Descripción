@@ -1,3 +1,4 @@
+Grafos de profundidad y de altura implementado a traves de matrices de adyacencia
 Una compañía de transporte necesita un sistema para indicarle a sus usuarios los lugares que tiene conectados en la república mexicana y el tiempo que tarda el recorrido.
 Inicialmente estos son los trayectos: Ciudad de México - Monterrey - 7 hrs Ciudad de México - Cancun - 12 hrs Ciudad de México - Acapulco - 5 hrs Ciudad de México - Guadalajara - 7 hrs Ciudad de México - Hidalgo - 1 hrs Monterrey - Cancun - 18 Hrs Monterrey - Guadalajara - 4 Hrs Monterrey - Acapulco - 6 Hrs
 Hidalgo - Acapulco - 5 Hrs
