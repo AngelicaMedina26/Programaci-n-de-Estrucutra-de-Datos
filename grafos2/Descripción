@@ -1,0 +1,13 @@
+Una compañía de transporte necesita un sistema para indicarle a sus usuarios los lugares que tiene conectados en la república mexicana y el tiempo que tarda el recorrido.
+Inicialmente estos son los trayectos: Ciudad de México - Monterrey - 7 hrs Ciudad de México - Cancun - 12 hrs Ciudad de México - Acapulco - 5 hrs Ciudad de México - Guadalajara - 7 hrs Ciudad de México - Hidalgo - 1 hrs Monterrey - Cancun - 18 Hrs Monterrey - Guadalajara - 4 Hrs Monterrey - Acapulco - 6 Hrs
+Hidalgo - Acapulco - 5 Hrs
+Hidalgo - Monterrey - 8 Hrs
+Gudalajara - Cancún - 15 Hrs
+Gudalajara - Acapulco - 3 Hrs
+Los trayectos son en ambas direcciones y hay algunas ciudades que no están conectadas.
+Debe tener una forma fácil y rápida de agregar nuevos destinos y de modificar la duración de los trayectos.
+Opciones del programa:
+1.- Agregar una nueva ciudad
+2.- Asignar un tiempo a un recorrido
+3.- Mostrar todos los reccoridos disponibles
+4.- Preguntar si hay un recorrido entre dos ciudades y cual es su duración 5.- Terminar el programa
